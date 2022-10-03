@@ -1,2 +1,2 @@
-# formatio_collab
+# formation_collab
 projet collaboratif de formation
